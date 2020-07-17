@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "JamesBurrowsAssignment3"
+    }
+  },
+  "defaultProject": "JamesBurrowsAssignment3",
+  "cli": {
+    "analytics": "c8039e9e-7536-4c10-be6e-b79a63831d20"
+  }
 }
