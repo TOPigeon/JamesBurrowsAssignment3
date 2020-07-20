@@ -38,7 +38,7 @@ export class AppContentComponent implements OnInit {
       this.DieValue = {imgSrc: "assets/images/DiceSix.png"}; 
       break;
     }
-    console.log(diceValue); 
+    //console.log(diceValue); 
   }
 
   DieValue:Dice =
