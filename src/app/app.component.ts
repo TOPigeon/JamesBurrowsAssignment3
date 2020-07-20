@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { Dice } from "../app/dice"; 
+
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'JamesBurrowsAssignment3';
+  AssignmentTitle = 'Assignment 3 - Roll the Dice';
+  title; 
+
 }
